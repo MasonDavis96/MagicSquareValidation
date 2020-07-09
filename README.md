@@ -9,7 +9,7 @@ A program focused on the utilization of threads to validate each individual row,
 # Usage
 Run Command:<br>
 
-The 'square.txt' file, must be a geometric square of numbers, but can be of variable size. It will not work for uneven row/column counts.<br><br>
-
 `javac *.java`<br>
-`java MagicSquare square.txt`
+`java MagicSquare square.txt`<br><br>
+
+The 'square.txt' file must be a geometric square of numbers, but can be of variable size. It will not work for uneven row/column counts.<br><br>
